@@ -61,6 +61,15 @@ over sociology, and long-term viability over spectacle. Once launched, a
 human interstellar mission cannot be recalled. There is no rescue, no
 resupply---only what humanity brings, and what it can build.
 
+## Contents
+- [Executive Summary](#executive-summary)
+- [Objective](#objective)
+- [Phase 1 – Reconnaissance](#phase-1----reconnaissance-remote--probe-based)
+- [Phase 2 – Decision & Development](#phase-2----decision--human-mission-development)
+- [Phase 3 – Transit](#phase-3----cryogenic-interstellar-transit)
+- [Phase 4 – Arrival](#phase-4----arrival-settlement-and-survival)
+- [Candidate Exoplanet Targets](#candidate-exoplanet-targets)
+
 # Objective
 
 To determine whether humanity can realistically travel to, survive on,

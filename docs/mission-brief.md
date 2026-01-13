@@ -1,6 +1,5 @@
-| Interstellar Exploration & Settlement Concept Brief |
-| --- |
-| A Phased, Realistic Path to Human Expansion Beyond the Solar System |
+Interstellar Exploration & Settlement Concept Brief
+A Phased, Realistic Path to Human Expansion Beyond the Solar System
 
 **Executive Summary**
 

@@ -62,7 +62,6 @@ human interstellar mission cannot be recalled. There is no rescue, no
 resupply---only what humanity brings, and what it can build.
 
 ## Contents
-- [Executive Summary](#executive-summary)
 - [Objective](#objective)
 - [Phase 1 – Reconnaissance](#phase-1----reconnaissance-remote--probe-based)
 - [Phase 2 – Decision & Development](#phase-2----decision--human-mission-development)

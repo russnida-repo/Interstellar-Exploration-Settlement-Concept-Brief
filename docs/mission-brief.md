@@ -62,49 +62,6 @@ over sociology, and long-term viability over spectacle. Once launched, a
 human interstellar mission cannot be recalled. There is no rescue, no
 resupply---only what humanity brings, and what it can build.
 
-# Contents {#contents .TOC-Heading}
-
-[Objective [1](#objective)](#objective)
-
-[Phase 1 -- Reconnaissance (Remote + Probe-Based)
-[1](#phase-1-reconnaissance-remote-probe-based)](#phase-1-reconnaissance-remote-probe-based)
-
-[Phase 2 -- Decision & Human Mission Development
-[2](#phase-2-decision-human-mission-development)](#phase-2-decision-human-mission-development)
-
-[Phase 3 -- Cryogenic Interstellar Transit
-[3](#phase-3-cryogenic-interstellar-transit)](#phase-3-cryogenic-interstellar-transit)
-
-[Phase 4 -- Arrival, Settlement, and Survival
-[4](#phase-4-arrival-settlement-and-survival)](#phase-4-arrival-settlement-and-survival)
-
-[Candidate Exoplanet Targets
-[6](#candidate-exoplanet-targets)](#candidate-exoplanet-targets)
-
-[1. GJ 1002 b --- Most likely habitable
-[7](#gj-1002-b-most-likely-habitable)](#gj-1002-b-most-likely-habitable)
-
-[2. Teegarden's Star b --- *Promising but uncertain*
-[7](#teegardens-star-b-promising-but-uncertain)](#teegardens-star-b-promising-but-uncertain)
-
-[3. TRAPPIST-1e --- Well-studied but increasingly uncertain
-[8](#trappist-1e-well-studied-but-increasingly-uncertain)](#trappist-1e-well-studied-but-increasingly-uncertain)
-
-[4. Proxima Centauri b --- Closest, but harsh environment
-[8](#proxima-centauri-b-closest-but-harsh-environment)](#proxima-centauri-b-closest-but-harsh-environment)
-
-[Phase 1 -- Interstellar Reconnaissance via Laser-Sail Probes
-[9](#phase-1-interstellar-reconnaissance-via-laser-sail-probes)](#phase-1-interstellar-reconnaissance-via-laser-sail-probes)
-
-[Phase 2 -- Decision, Development, and Human Mission Architecture
-[12](#phase-2-decision-development-and-human-mission-architecture)](#phase-2-decision-development-and-human-mission-architecture)
-
-[Phase 3 -- Cryogenic Interstellar Transit & Mission Optimization
-[17](#phase-3-cryogenic-interstellar-transit-mission-optimization)](#phase-3-cryogenic-interstellar-transit-mission-optimization)
-
-[Phase 4 -- Arrival, Settlement, and Planetary Survival
-[22](#phase-4-arrival-settlement-and-planetary-survival)](#phase-4-arrival-settlement-and-planetary-survival)
-
 # Objective
 
 To determine whether humanity can realistically travel to, survive on,

@@ -1,6 +1,6 @@
-| title: Interstellar Exploration & Settlement Concept Brief |
+| Interstellar Exploration & Settlement Concept Brief |
 | --- |
-| subtitle: A Phased, Realistic Path to Human Expansion Beyond the Solar System |
+| A Phased, Realistic Path to Human Expansion Beyond the Solar System |
 
 **Executive Summary**
 

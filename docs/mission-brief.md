@@ -72,7 +72,6 @@ Target planets:
 
 | **Planet** | **Distance (ly)** |
 | --- | ---: |
-| ----------------------------------------- ----------------------------- |  |
 | Proxima Centauri b | 4.24 |
 | Teegarden's Star b | 12.6 |
 | GJ 1002 b | 15.8 |

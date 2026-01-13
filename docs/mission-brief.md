@@ -96,21 +96,15 @@ human survival.
 1.  **Next-Generation Telescopes**
 
     -   Atmospheric detection and composition
-
     -   Surface temperature and climate stability
-
     -   Stellar flare and radiation history
-
     -   Long-term habitability modeling
 
 2.  **Laser-Sail Flyby Probes (0.1--0.2c)**
 
     -   High-speed in-system imaging
-
     -   Atmospheric limb spectroscopy
-
     -   Dust and particle environment measurements
-
     -   Magnetosphere interaction detection
 
 **Timeline (Assuming 2040 Launch)**
@@ -129,11 +123,8 @@ committing to human missions.\
 Only planets that demonstrate:
 
 -   A stable atmosphere
-
 -   Manageable radiation levels
-
 -   Plausible surface or subsurface water
-
 -   Long-term climate stability
 
 advance to Phase 2.
@@ -149,13 +140,9 @@ Design and construct a human-capable interstellar spacecraft.
 **25 years** -- reflecting the complexity of:
 
 -   Human-rated propulsion
-
 -   Radiation shielding
-
 -   Long-term system reliability
-
 -   Deceleration architecture
-
 -   Life-support engineering
 
 **Propulsion Assumptions**
@@ -163,17 +150,13 @@ Design and construct a human-capable interstellar spacecraft.
 Plausible technologies include:
 
 -   Fusion-based propulsion
-
 -   Antimatter-assisted fusion
-
 -   Beamed-energy hybrid systems
 
 Target performance:
 
 -   Cruise speeds: **0.1c--0.2c**
-
 -   Sustained acceleration: **0.01g--0.1g**
-
 -   Full deceleration at destination
 
 **Mission Architecture**
@@ -181,17 +164,13 @@ Target performance:
 **Generation ships are ruled out** due to:
 
 -   Enormous life-support mass
-
 -   Social and cultural instability risk
-
 -   Poor arrival survival efficiency
 
 Instead, missions rely on:
 
 -   **Cryogenic / suspended animation**
-
 -   Minimal active crew
-
 -   AI-assisted operations
 
 This shifts mission complexity from **sociology to engineering**.
@@ -203,19 +182,14 @@ This shifts mission complexity from **sociology to engineering**.
 Keeping humans awake for decades or centuries would:
 
 -   Consume massive life-support resources
-
 -   Increase psychological and social risk
-
 -   Reduce arrival survival capacity
 
 Suspended animation allows:
 
 -   Drastic mass savings
-
 -   Smaller habitats
-
 -   Reduced failure modes
-
 -   Maximum payload for settlement systems
 
 **Known Risk**
@@ -229,16 +203,13 @@ However, without it, interstellar human travel becomes impractical.
 Human missions use:
 
 1.  **Acceleration phase**
-
 2.  **Cruise phase**
-
 3.  **Deceleration phase**
 
 Realistic travel envelopes:
 
 | **Target** | **Estimated Transit** |
 | --- | --- |
-| -------------------------------------- -------------------------------- |  |
 | Proxima b | 23--45 years |
 | Teegarden / GJ 1002 b | 50--120 years |
 | TRAPPIST-1e | 200--400+ years |
@@ -254,9 +225,7 @@ At 0.1--0.2c:
 This drives:
 
 -   Heavier shielding requirements
-
 -   Preference for slower cruise speeds (\~0.1c)
-
 -   Emphasis on forward shielding and sacrificial layers
 
 **Deceleration Challenge**
@@ -266,9 +235,7 @@ Slowing from relativistic speeds is energy-intensive.
 Potential braking methods:
 
 -   Fusion-powered deceleration
-
 -   Magnetic sails
-
 -   Beamed-energy braking
 
 Deceleration is treated as a **core engineering challenge**, not an
@@ -281,13 +248,9 @@ afterthought.
 The spacecraft enters orbit and performs final surveys:
 
 -   Atmospheric verification
-
 -   Radiation mapping
-
 -   Surface temperature analysis
-
 -   Seismic and volcanic monitoring
-
 -   Biological hazard screening
 
 **Crew Revival**
@@ -295,9 +258,7 @@ The spacecraft enters orbit and performs final surveys:
 Crew are revived gradually with:
 
 -   Medical stabilization
-
 -   Artificial gravity rehabilitation
-
 -   Immune system recovery
 
 **Initial Habitat Deployment**
@@ -305,19 +266,14 @@ Crew are revived gradually with:
 Early settlements prioritize:
 
 -   Radiation shielding
-
 -   Environmental stability
-
 -   Redundancy
-
 -   Expandability
 
 Habitats are:
 
 -   Modular
-
 -   Shielded
-
 -   Partially underground or protected
 
 **Power & Resources**
@@ -325,17 +281,13 @@ Habitats are:
 Permanent survival requires:
 
 -   Nuclear or fusion power
-
 -   Water extraction
-
 -   Oxygen production
-
 -   Closed-loop agriculture
 
 **In-Situ Resource Utilization (ISRU)** is critical:
 
 -   Local materials reduce dependence on Earth
-
 -   Infrastructure expands using planetary resources
 
 **Long-Term Goal**
@@ -347,16 +299,13 @@ Outpost → Settlement → Independent Civilization
 The colony must become:
 
 -   Technologically autonomous
-
 -   Ecologically stable
-
 -   Socially cohesive
 
 **Program Timeline Summary**
 
 | **Event** | **Earliest** | **Latest** |
 | --- | --- | --- |
-| ------------------------ --------------------- ------------------------ |  |  |
 | First crewed arrival | 2112 (Proxima b) | 3239 (TRAPPIST-1e) |
 | Time from 2026 | 86 years | 1,213 years |
 
@@ -365,11 +314,8 @@ The colony must become:
 This program is guided by:
 
 -   **Evidence over optimism**
-
 -   **Survival over comfort**
-
 -   **Engineering over sociology**
-
 -   **Long-term viability over spectacle**
 
 Interstellar travel is not framed as a heroic expedition, but as a
@@ -389,11 +335,8 @@ consistent with **rocky, Earth-like worlds**.
 These targets were selected based on:
 
 -   Distance from Earth
-
 -   Estimated planetary mass and composition
-
 -   Host star behavior and radiation environment
-
 -   Current scientific assessments of long-term habitability potential
 
 Importantly, **habitable zone placement alone does not imply actual
@@ -404,7 +347,6 @@ The four candidate planets are:
 
 | **Planet** | **Distance (ly)** |
 | --- | ---: |
-| ----------------------------------------- ----------------------------- |  |
 | Proxima Centauri b | 4.24 |
 | Teegarden's Star b | 12.6 |
 | GJ 1002 b | 15.8 |
@@ -426,11 +368,8 @@ retained a stable atmosphere and possibly surface water.
 **Key factors:**
 
 -   Earth-mass "super-Earth"
-
 -   Located in the habitable zone
-
 -   Host star shows relatively low flare activity
-
 -   Gravity likely close to Earth's
 
 **Why it is ranked #1:**\
@@ -450,11 +389,8 @@ assumptions.
 **Key factors:**
 
 -   Earth-like mass
-
 -   Habitable-zone orbit
-
 -   Likely tidally locked
-
 -   Atmospheric retention uncertain
 
 **Why it is ranked #2:**\
@@ -474,11 +410,8 @@ candidate.
 **Key factors:**
 
 -   Earth-size radius
-
 -   Receives similar stellar energy to Earth
-
 -   Host star is highly active
-
 -   Atmospheric presence not yet confirmed
 
 **Why it is ranked #3:**\
@@ -497,13 +430,9 @@ host star is highly active, with frequent flares and strong radiation.
 **Key factors:**
 
 -   Only 4.24 light-years away
-
 -   Habitable-zone orbit
-
 -   Likely tidally locked
-
 -   Extreme stellar radiation environment
-
 -   Atmospheric survival is questionable
 
 **Why it is ranked #4:**\
@@ -519,11 +448,8 @@ candidates.
 This ranking reflects current scientific understanding of:
 
 -   Stellar radiation stability
-
 -   Atmospheric survivability
-
 -   Planetary mass and gravity
-
 -   Orbital climate conditions
 
 ---not merely whether a planet lies within a nominal habitable zone.
@@ -533,11 +459,8 @@ This ranking reflects current scientific understanding of:
 Together, these four planets represent:
 
 -   The **closest plausible** habitable worlds
-
 -   A range of **stellar radiation environments**
-
 -   Increasing distances that test propulsion feasibility
-
 -   A spectrum of **habitability confidence levels**
 
 By evaluating all four in parallel, the program maximizes the
@@ -549,7 +472,6 @@ for human settlement beyond the Solar System.
 Phase 1 combines two complementary reconnaissance approaches:
 
 1.  **High-speed laser-sail probes**
-
 2.  **Next-generation astronomical observatories**
 
 Together, these provide both **remote atmospheric characterization** and
@@ -573,11 +495,8 @@ habitability filter**.
 Large space telescopes using advanced spectroscopy can:
 
 -   Detect thick vs thin atmospheres
-
 -   Identify major gases (CO₂, H₂O, N₂, CH₄, O₂, etc.)
-
 -   Rule out airless or Venus-like worlds
-
 -   Constrain surface pressure estimates
 
 This alone can eliminate many false "habitable zone" candidates.
@@ -588,12 +507,9 @@ By measuring thermal emission and reflected light, telescopes can
 estimate:
 
 -   Average surface temperatures
-
 -   Day--night temperature contrasts (important for tidally locked
     worlds)
-
 -   Presence of cloud systems
-
 -   Ice vs ocean coverage
 
 These observations help determine whether liquid water is even possible.
@@ -603,9 +519,7 @@ These observations help determine whether liquid water is even possible.
 Long-term monitoring of host stars can characterize:
 
 -   Flare frequency and intensity
-
 -   UV/X-ray output
-
 -   Particle radiation levels
 
 This determines how hostile the radiation environment is for atmospheres
@@ -616,9 +530,7 @@ and surface life.
 With long-baseline observations, scientists may detect:
 
 -   Atmospheric circulation
-
 -   Weather variability
-
 -   Possible seasonal cycles
 
 This provides clues about long-term climate stability.
@@ -629,26 +541,20 @@ Telescopes can often answer **first-order habitability questions**
 decades before a probe arrives:
 
 -   Does the planet have an atmosphere at all?
-
 -   Is it more like Earth, Venus, or Mars?
-
 -   Is the host star too violent for long-term surface life?
 
 This enables:
 
 -   Early elimination of poor candidates
-
 -   Prioritization of probe targets
-
 -   Better probe instrumentation design
-
 -   Smarter crewed-mission planning
 
 **How Probes and Telescopes Complement Each Other**
 
 | **Telescopes** | **Probes** |
 | --- | --- |
-| ------------------------------- --------------------------------------- |  |
 | Remote, long-term monitoring | Direct, close-range measurements |
 | Spectroscopy of atmospheres | High-resolution imaging |
 | Climate and radiation trends | Local plasma & dust environment |
@@ -664,13 +570,10 @@ Assuming probes launch in **2040**:
 
 -   **2026--2040:**\
     Telescope upgrades, atmospheric screening, stellar monitoring
-
 -   **2040--2065:**\
     Proxima b probe in transit + continued telescope refinement
-
 -   **2065+:**\
     First close-pass probe data + decades of telescope history
-
 -   **2075--2100+:**\
     Full multi-source habitability assessments for farther systems
 
@@ -678,11 +581,8 @@ By the time human mission planning begins, each candidate planet will
 have:
 
 -   Decades of telescope data
-
 -   Direct probe measurements
-
 -   Well-characterized stellar behavior
-
 -   Observation-grounded climate models
 
 **Strategic Impact on Human Mission Planning**
@@ -690,9 +590,7 @@ have:
 This combined approach ensures that Phase 2 decisions are not based on:
 
 -   Single observations
-
 -   Theoretical models alone
-
 -   Optimistic assumptions
 
 Instead, they are based on **multi-decade, multi-method evidence**.
@@ -700,9 +598,7 @@ Instead, they are based on **multi-decade, multi-method evidence**.
 Only planets that demonstrate:
 
 -   Atmospheric stability
-
 -   Manageable radiation
-
 -   Plausible surface conditions
 
 will advance to **human mission consideration**.
@@ -718,13 +614,9 @@ during transit.
 Unlike probe missions, human missions must support:
 
 -   Long-term system reliability
-
 -   Radiation protection
-
 -   Cryogenic life-support infrastructure
-
 -   Full deceleration on arrival
-
 -   Autonomous operations without Earth support
 
 These requirements place far greater demands on **propulsion, shielding,
@@ -739,13 +631,9 @@ gate** using Phase 1 data.
 Minimum criteria include:
 
 -   Presence of a stable atmosphere
-
 -   Evidence of surface or subsurface water
-
 -   Manageable radiation environment
-
 -   Long-term climate stability
-
 -   Gravity within a tolerable human range
 
 Planets that fail **any** of these criteria are removed from
@@ -769,17 +657,11 @@ attempted.
 A 25-year build and preparation phase reflects:
 
 -   The complexity of human-rated interstellar systems
-
 -   Development of advanced shielding materials
-
 -   Cryogenic life-support validation
-
 -   Propulsion system maturation
-
 -   Long-duration reliability testing
-
 -   Full-scale deceleration architecture design
-
 -   Multi-decade mission simulations
 
 For comparison, the International Space Station required over 20 years
@@ -800,11 +682,8 @@ be required before any human mission could be responsibly attempted.
 Unlike laser-sail probes, human spacecraft:
 
 -   Cannot tolerate extreme acceleration
-
 -   Must carry heavy radiation and impact shielding
-
 -   Must perform full deceleration at destination
-
 -   Must protect cryogenic crew systems
 
 This limits realistic cruise speeds to approximately:
@@ -815,9 +694,7 @@ with sustained accelerations in the **0.01g -- 0.1g** range.
 Higher speeds dramatically increase:
 
 -   Shielding mass
-
 -   Collision risk with interstellar dust
-
 -   Deceleration energy requirements
 
 **Travel Time Envelope**
@@ -826,7 +703,6 @@ Under these assumptions:
 
 | **Target** | **Fastest Arrival** | **Slowest Arrival** |
 | --- | --- | --- |
-| -------------------------- --------------------- ---------------------- |  |  |
 | Proxima Centauri b | 2112 | \~2200+ |
 | Teegarden's Star b | \~2170 | \~2400+ |
 | GJ 1002 b | \~2200 | \~2500+ |
@@ -840,9 +716,7 @@ even millennium-scale timelines.
 These timelines reflect:
 
 -   Conservative acceleration limits
-
 -   Full deceleration on arrival
-
 -   Shielding-driven cruise speed constraints
 
 **Illustrative Decision Timeline**\
@@ -861,11 +735,8 @@ adopts a **survival-optimized architecture**.
 Multi-generation crewed vessels are **not considered viable** due to:
 
 -   Enormous life-support mass requirements
-
 -   Complex social and cultural stability risks
-
 -   Reduced payload available for arrival survival systems
-
 -   High long-term failure probability
 
 In a mission where **arrival viability determines success**, generation
@@ -878,13 +749,9 @@ Human missions are based on long-term crew suspension.
 This approach:
 
 -   Minimizes life-support mass
-
 -   Reduces habitat volume
-
 -   Eliminates long-duration social risks
-
 -   Frees payload for settlement systems
-
 -   Simplifies medical and psychological requirements
 
 The spacecraft becomes a **transport platform**, not a mobile
@@ -899,9 +766,7 @@ impractical.
 Some missions may include:
 
 -   A minimal active crew
-
 -   AI-managed ship systems
-
 -   Cryogenically stored settlers
 
 This is treated as an engineering redundancy option, not a primary
@@ -917,19 +782,14 @@ secondary detail.
 Possible methods include:
 
 -   Fusion-powered braking
-
 -   Magnetic sails interacting with stellar wind
-
 -   Beamed-energy deceleration from the destination system
 
 Slowing from 0.1--0.2c requires:
 
 -   Large energy reserves
-
 -   Robust structural design
-
 -   Extended braking periods
-
 -   Careful thermal management
 
 Arrival is expected to be **gradual, controlled, and highly staged**.
@@ -939,15 +799,10 @@ Arrival is expected to be **gradual, controlled, and highly staged**.
 Because real-time Earth support is impossible, AI systems manage:
 
 -   Navigation and course correction
-
 -   Engineering maintenance
-
 -   Cryogenic system stability
-
 -   Medical diagnostics
-
 -   Resource optimization
-
 -   Long-term system monitoring
 
 AI reliability over **centuries** becomes mission-critical.
@@ -963,13 +818,9 @@ Phase 2 transforms interstellar travel from a speculative concept into a
 It establishes:
 
 -   Which destination is worth the investment
-
 -   How long the journey will take
-
 -   What architecture will be used
-
 -   What risks are acceptable
-
 -   How survival is prioritized
 
 Only after Phase 2 is complete does humanity commit to the long journey
@@ -993,13 +844,9 @@ kilogram not available for survival after arrival.**
 Generation ships require:
 
 -   Large habitable volumes
-
 -   Continuous food production
-
 -   Full medical, social, and educational infrastructure
-
 -   Multi-generational population support
-
 -   Psychological and cultural stability systems
 
 All of these demand **enormous mass, complexity, and long-term
@@ -1008,13 +855,9 @@ reliability**.
 More importantly, they divert critical payload capacity away from:
 
 -   Planetary survival equipment
-
 -   Habitat construction systems
-
 -   Energy infrastructure
-
 -   Medical facilities
-
 -   Environmental stabilization tools
 
 In a mission where **arrival viability determines success**, generation
@@ -1029,13 +872,9 @@ assumes **long-term crew suspension** (cryogenic or metabolic stasis).
 This approach:
 
 -   Reduces life-support mass dramatically
-
 -   Minimizes habitat volume
-
 -   Lowers psychological risk
-
 -   Simplifies medical support
-
 -   Frees mass for survival systems
 
 The spacecraft becomes a **transport platform**, not a mobile
@@ -1044,13 +883,9 @@ civilization.
 Crew are preserved for:
 
 -   Planetary exploration
-
 -   Habitat construction
-
 -   Medical operations
-
 -   Scientific research
-
 -   Long-term settlement
 
 Suspended animation shifts mission complexity from **sociology to
@@ -1071,13 +906,9 @@ missions become impractical.
 Human-rated interstellar propulsion must balance:
 
 -   High specific impulse
-
 -   Continuous thrust capability
-
 -   Reliable deceleration
-
 -   Manageable fuel mass
-
 -   Radiation shielding compatibility
 
 Technologies considered plausible under known physics include:
@@ -1096,11 +927,8 @@ fuel demands.
 Unlike probe-scale laser sails, human ships require:
 
 -   Gradual acceleration
-
 -   Heavy radiation and impact shielding
-
 -   Controlled braking
-
 -   Structural integrity under long-term thrust
 
 **Acceleration, Cruise, and Deceleration Profile**
@@ -1109,10 +937,8 @@ Human missions follow a **three-phase flight model**:
 
 1.  **Acceleration Phase**\
     Gradual thrust to reach cruise velocity
-
 2.  **Cruise Phase**\
     Coasting at constant interstellar speed
-
 3.  **Deceleration Phase**\
     Controlled braking before arrival
 
@@ -1128,17 +954,13 @@ and cryogenic system instability.
 Based on mass, shielding, and propulsion constraints:
 
 -   **0.1c** represents a conservative but achievable target
-
 -   **0.2c** represents an optimistic upper bound
 
 Higher speeds drastically increase:
 
 -   Shielding requirements
-
 -   Energy demand
-
 -   Collision risk with interstellar dust
-
 -   Deceleration complexity
 
 As a result, **0.1c-class missions** are favored for human transport.
@@ -1155,17 +977,13 @@ biology, genetic protection, and cellular repair mechanisms.
 At **0.1--0.2c**:
 
 -   Interstellar hydrogen becomes ionizing radiation
-
 -   Micrometeoroid impacts become potentially catastrophic
 
 This drives the need for:
 
 -   Heavy forward shielding
-
 -   Sacrificial impact layers
-
 -   Conservative cruise velocities
-
 -   Robust structural margins
 
 Shielding mass becomes a primary driver of mission design, influencing
@@ -1178,21 +996,15 @@ Slowing from relativistic speeds is **as demanding as acceleration**.
 Deceleration drives:
 
 -   Fuel mass
-
 -   Power requirements
-
 -   Thermal management
-
 -   Structural design
-
 -   Mission timeline
 
 Potential braking methods include:
 
 -   Fusion-powered deceleration
-
 -   Magnetic sails interacting with stellar wind
-
 -   Beamed-energy deceleration from the destination system
 
 Deceleration is treated as a **primary engineering constraint**, not a
@@ -1207,21 +1019,15 @@ Using modeled profiles:
 **At 0.2c, 0.1g:**
 
 -   Acceleration: \~2 years
-
 -   Cruise: \~19 years
-
 -   Deceleration: \~2 years
-
 -   **Total: \~23 years**
 
 **At 0.1c, 0.03g:**
 
 -   Acceleration: \~3 years
-
 -   Cruise: \~39 years
-
 -   Deceleration: \~3 years
-
 -   **Total: \~45 years**
 
 **TRAPPIST-1e (40.7 ly)**
@@ -1229,21 +1035,15 @@ Using modeled profiles:
 **At 0.2c, 0.03g:**
 
 -   Acceleration: \~6 years
-
 -   Cruise: \~190 years
-
 -   Deceleration: \~6 years
-
 -   **Total: \~202 years**
 
 **At 0.1c, 0.01g:**
 
 -   Acceleration: \~19 years
-
 -   Cruise: \~360 years
-
 -   Deceleration: \~19 years
-
 -   **Total: \~398 years**
 
 Slower profiles extend into **multi-century** timescales.
@@ -1253,15 +1053,10 @@ Slower profiles extend into **multi-century** timescales.
 Because real-time Earth support is impossible, AI systems manage:
 
 -   Navigation and trajectory corrections
-
 -   Engineering maintenance
-
 -   Cryogenic system stability
-
 -   Radiation monitoring
-
 -   Medical diagnostics
-
 -   Resource optimization
 
 AI reliability over **centuries** becomes mission-critical.
@@ -1280,23 +1075,16 @@ the mission before human revival occurs.
 Because the crew remains inactive during transit:
 
 -   Life-support mass is minimized
-
 -   Psychological risks are reduced
-
 -   Long-term social stability is not required
-
 -   Engineering reliability becomes the dominant risk
 
 This allows maximum payload allocation to:
 
 -   Power generation
-
 -   Habitat modules
-
 -   Environmental control systems
-
 -   Medical and agricultural infrastructure
-
 -   Surface mobility systems
 
 The mission is optimized for **post-arrival success**, not mid-transit
@@ -1310,11 +1098,8 @@ engineering problem**, not a social experiment.
 It ensures:
 
 -   Maximum survival resources on arrival
-
 -   Reduced mission complexity
-
 -   Lower long-term failure risk
-
 -   Higher probability of permanent settlement
 
 This approach makes human interstellar expansion **hard, but
@@ -1338,19 +1123,14 @@ Unlike reconnaissance probes, the human mission must **fully
 decelerate** before arrival. This enables:
 
 -   Orbital insertion around the target star or planet
-
 -   Extended reconnaissance of moons and orbital conditions
-
 -   Careful selection of landing sites
-
 -   Hazard avoidance (radiation belts, debris fields, etc.)
 
 Deceleration may involve:
 
 -   Fusion-powered braking
-
 -   Magnetic or plasma sails
-
 -   Beamed-energy deceleration support
 
 This phase may take **months to years**, but ensures a safe, controlled
@@ -1369,9 +1149,7 @@ Once the spacecraft is in a stable orbital environment:
 2.  Medical teams monitor:
 
     -   Muscle and bone recovery
-
     -   Immune function
-
     -   Neurological stability
 
 3.  Artificial gravity habitats are activated to restore normal
@@ -1380,9 +1158,7 @@ Once the spacecraft is in a stable orbital environment:
 The revival process is slow and carefully staged to minimize:
 
 -   Physiological shock
-
 -   Cardiovascular stress
-
 -   Neurological complications
 
 Medical AI systems assist in continuous monitoring and recovery
@@ -1394,15 +1170,10 @@ Even after decades or centuries of reconnaissance, a **final in-system
 survey** is essential before surface deployment:
 
 -   Atmospheric composition confirmation
-
 -   Radiation levels
-
 -   Surface temperature stability
-
 -   Dust and weather patterns
-
 -   Seismic and volcanic activity
-
 -   Potential microbial hazards
 
 Only after these conditions meet **minimum survival thresholds** does
@@ -1413,21 +1184,15 @@ surface settlement begin.
 The first human presence is established using:
 
 -   Pre-fabricated habitat modules
-
 -   Inflatable or rigid pressure structures
-
 -   Underground or shielded installations
-
 -   Modular power systems (nuclear, fusion, or solar)
 
 Early habitats prioritize:
 
 -   Radiation protection
-
 -   Environmental stability
-
 -   Redundancy
-
 -   Expandability
 
 The operational goal is **survival first, comfort second**.
@@ -1435,9 +1200,7 @@ The operational goal is **survival first, comfort second**.
 Habitats are designed for:
 
 -   Rapid deployment
-
 -   Structural resilience
-
 -   Long-term maintainability
 
 **Power, Water, and Life Support**
@@ -1456,29 +1219,21 @@ despite successful transit and arrival.
 A permanent settlement requires:
 
 -   Reliable energy production
-
 -   Water extraction or recycling
-
 -   Oxygen generation
-
 -   Food production systems
 
 Likely approaches include:
 
 -   Nuclear or fusion reactors
-
 -   Ice or atmospheric water extraction
-
 -   Closed-loop ecological systems
-
 -   Controlled agriculture
 
 **In-Situ Resource Utilization (ISRU)** is essential:
 
 -   Local materials reduce dependence on Earth
-
 -   Infrastructure expands using planetary resources
-
 -   Long-term sustainability becomes achievable
 
 Self-sufficiency is treated as a **core survival requirement**, not a
@@ -1491,15 +1246,10 @@ Even the most promising candidate planets will not be Earth.
 Challenges may include:
 
 -   Different gravity
-
 -   Different atmospheric pressure
-
 -   Higher radiation
-
 -   Temperature extremes
-
 -   Unfamiliar day/night cycles
-
 -   Unknown biological hazards
 
 Habitats, clothing, medical protocols, and daily routines must **adapt
@@ -1510,13 +1260,9 @@ to the planet** rather than attempting to recreate Earth conditions.
 Once a stable foothold exists:
 
 -   Additional habitats are deployed
-
 -   Local materials are processed
-
 -   Infrastructure grows incrementally
-
 -   Scientific research expands
-
 -   Long-term ecological management begins
 
 The settlement evolves from an **outpost** to a **self-sustaining
@@ -1525,11 +1271,8 @@ colony**.
 Expansion is guided by:
 
 -   Resource availability
-
 -   Environmental stability
-
 -   System reliability
-
 -   Population health
 
 **Long-Term Survival and Independence**
@@ -1537,11 +1280,8 @@ Expansion is guided by:
 The ultimate goal is not just to survive, but to become:
 
 -   Biologically stable
-
 -   Socially cohesive
-
 -   Technologically independent
-
 -   Ecologically sustainable
 
 At this stage, the settlement is no longer a mission --- it is a **new
@@ -1556,9 +1296,7 @@ Phase 4 represents the transition from:
 Success means humanity has:
 
 -   Left the Solar System
-
 -   Adapted to a new world
-
 -   Built a permanent presence beyond Earth
 
 Failure means the mission ends on arrival.

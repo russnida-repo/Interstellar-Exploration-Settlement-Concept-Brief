@@ -3,10 +3,10 @@
 *A phased, realism-first framework for evaluating whether humanity could establish a permanent presence beyond the Solar System.*
 
 📄 **Read the full brief (PDF):**  
-https://github.com/russnida-repo/Interstellar-Exploration-Settlement-Concept-Brief/blob/main/docs/mission-brief.pdf  
+[mission-brief.pdf](docs/mission-brief.pdf)
 
 📝 **Read the full brief (Markdown):**  
-https://github.com/russnida-repo/Interstellar-Exploration-Settlement-Concept-Brief/blob/main/docs/mission-brief.md  
+[mission-brief.md](docs/mission-brief.md)
 
 This repository contains the **Interstellar Exploration & Settlement Concept Brief**, a strategic feasibility framework that emphasizes **evidence-based decision gates**, **survivability**, and **engineering realism** over optimistic assumptions. It is **not** an engineering design or near-term mission proposal; it outlines the constraints, decision logic, and phased architecture that would govern any future interstellar effort under known physics.
 
@@ -128,3 +128,4 @@ If you reference this work, cite it as:
 
 > **Interstellar Exploration & Settlement Concept Brief (v1.5)** —  
 > *A Phased, Realistic Path to Human Expansion Beyond the Solar System.*
+
